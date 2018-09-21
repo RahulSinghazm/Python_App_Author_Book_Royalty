@@ -2,7 +2,7 @@
 When Book soldout then calculate royalty
 
 
-# Problem Statement:
+# Solution Statement:
 Design a ‘book’ class with title, author, publisher, price and author’s royalty as instance variables. 
 Provide getter and setter properties for all variables.
 Also define a method royalty() to calculate royalty amount author can expect to receive the following
